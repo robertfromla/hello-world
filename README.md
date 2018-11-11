@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+In an attempt to get started on my career im doing this
+
